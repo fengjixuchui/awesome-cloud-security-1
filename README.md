@@ -6,7 +6,7 @@
 <a href="http://wiki.peiqi.tech"><img alt="PeiQi Wiki" src="https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
 </a>
 <a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
-<a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author" /></a>
+<a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
 <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
 
@@ -21,29 +21,48 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 
-### 1 博客
+### 1 综合
 
 * 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
 * 火线云安全知识库 [地址](https://cloudsec.huoxian.cn/)
-* T Wiki 云安全知识文库 :fire: [在线访问地址](https://wiki.teamssix.com/)
-* T Wiki 云安全知识文库 [开源项目地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网查看`
-* Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
+* T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/)
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
-* Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
-* Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
+* Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
+* 云服务漏洞库（英文）[地址](https://www.cloudvulndb.org/)
+* 2021 年云安全事件回顾（英文）[地址](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
+* T Wiki 云安全知识文库项目 [地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网阅读`
+* 云安全入门资料 [地址](https://github.com/Esonhugh/Attack_Code) ![GitHub stars](https://img.shields.io/github/stars/Esonhugh/Attack_Code)
+
+### 2 博客资讯
+
+* TeamsSix 的个人博客 [地址](https://teamssix.com/)
+* Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
+* Sysdig 云安全报告资讯（英文）[地址](https://sysdig.com/resources/reports/)
 * Sysdig 博客（英文）[地址](https://sysdig.com/blog/)
-* 容器杂志（英文）[地址](https://containerjournal.com/)
+* 容器杂志资讯（英文）[地址](https://containerjournal.com/)
 * DevOps 安全博客（英文）[地址](https://www.conjur.org/blog/)
 * Aqua 博客（英文）[地址](https://blog.aquasec.com/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
 * WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
-* Rhino Security Labs Blog（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
-* Bridgecrew Blog（英文）[地址](https://bridgecrew.io/blog/)
-* Trend Micro Blog（英文）[地址](https://www.trendmicro.com/en_us/devops.html)
+* Rhino Security Labs 博客（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
+* Bridgecrew 博客（英文）[地址](https://bridgecrew.io/blog/)
+* Trend Micro 博客（英文）[地址](https://www.trendmicro.com/en_us/devops.html)
+* 安全大道资讯（英文）[地址](https://securityboulevard.com/cloud-security/)
+* Deepfence 博客（英文）[地址](https://deepfence.io/blog/)
+* Lacework 博客（英文）[地址](https://www.lacework.com/blog/)
+* Humanitec 博客（英文）[地址](https://humanitec.com/blog)
+* Orca 博客（英文）[地址](https://orca.security/resources/blog/)
+* Praetorian 博客（英文）[地址](https://www.praetorian.com/blog)
+* Ermetic 博客（英文）[地址](https://ermetic.com/blog)
+* Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
+* 福布斯 Cloud 100（英文）[地址](https://forbes.com/lists/cloud100/)
+* Gafnit Amiga 的个人博客（英文）[地址](https://gafnit.blog/)
+* Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
+* Chris Farris 的个人博客（英文）[地址](https://www.chrisfarris.com/)
 
 
-### 2 公众号
+### 3 公众号
 
 * 火线 Zone :fire: 
 * TeamsSix
@@ -51,22 +70,21 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 绿盟科技研究通讯
 * 默安逐日实验室
 * Linux 云计算网络 `由「zxynull」师傅补充，感谢支持`
-* 腾讯玄武实验室 `由「zxynull」师傅补充，感谢支持`
 * 云原生技术社区 `由「zxynull」师傅补充，感谢支持`
 * 进击云原生 `由「zxynull」师傅补充，感谢支持`
 
-### 3 书籍
+### 4 书籍
 
 《云原生安全-攻防实践与体系构建》
 
 《Hacking Kubernetes》
 
-### 4 视频
+### 5 视频
 
 * 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419/video)
 * KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
 
-### 5 云服务文章
+### 6 云服务文章
 
 * AWS S3 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/907-aws-s3)
 * AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
@@ -94,11 +112,17 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
 * 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
-* 从云服务器 SSRF 漏洞到接管你的阿里云控制台 :fire: [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
+* 从云服务器 SSRF 漏洞到接管你的阿里云控制台 [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
 * 云安全漏洞数据库 [地址](https://www.cloudvulndb.org/)
+* 我用 CF 打穿了他的云上内网 :fire: [地址](https://zone.huoxian.cn/d/1341-cf)
+* Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
+* 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
+* 记录一次平平无奇的云上攻防过程 [地址](https://zone.huoxian.cn/d/2557)
+* Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
+* Lightspin 2022 年 7 大云攻击路径 [地址](hhttps://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
-### 6 云原生文章
+### 7 云原生文章
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
@@ -118,9 +142,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 * 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
 * Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
-* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
-* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
+* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
 
@@ -130,8 +153,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 #### 辅助工具
 
-* 在线搜索目标网站下的 AWS 资产 recon.cloud [地址](https://recon.cloud/)
-* 在线搜索公开的 S3 存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
+* 在线搜索目标网站下的云资产 recon.cloud [地址](https://recon.cloud/)
+* 在线搜索公开的存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
 * 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云轻量服务器管理工具 [地址](https://www.qqvps.com/d/1011) `由「tanger」师傅补充，感谢支持`
 * 腾讯云官方 COS 辅助工具 [地址](https://cosbrowser.cloud.tencent.com/) `由「Esonhugh」师傅补充，感谢支持`
@@ -142,17 +165,18 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 开源多云安全合规扫描平台 RiskScanner [地址](https://github.com/riskscanner/riskscanner) ![GitHub stars](https://img.shields.io/github/stars/riskscanner/riskscanner) `由「想走安全的小白」师傅补充，感谢支持`
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
+* 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
 
 #### 利用工具
 
 * AWS 综合利用工具 pacu [地址](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
 * 云安全态势管理工具 CloudSploit [地址](https://github.com/aquasecurity/cloudsploit) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/cloudsploit) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * Azure 红队利用工具 Stormspotter [地址](https://github.com/Azure/Stormspotter) ![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter) `由「da Vinci【达文西】」师傅补充，感谢支持`
+* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf) :fire:
 * 阿里云 AccessKey 利用工具 aliyun-accesskey-Tools [地址](https://github.com/mrknow001/aliyun-accesskey-Tools) ![GitHub stars](https://img.shields.io/github/stars/mrknow001/aliyun-accesskey-Tools) `由「半人间丶」师傅补充，感谢支持`
 * 云上公开资产枚举 CloudBrute [地址](https://github.com/0xsha/CloudBrute) ![GitHub stars](https://img.shields.io/github/stars/0xsha/CloudBrute)
 * 阿里云 ECS、策略组辅助小工具 alicloud-tools [地址](https://github.com/iiiusky/alicloud-tools) ![GitHub stars](https://img.shields.io/github/stars/iiiusky/alicloud-tools) `由「半人间丶」师傅补充，感谢支持`
 * 阿里云/腾讯云 AK 资源管理工具 [地址](https://github.com/wyzxxz/aksk_tool) ![Github stars](https://img.shields.io/github/stars/wyzxxz/aksk_tool) `由「Esonhugh」师傅补充，感谢支持`
-* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf) :fire:
 * GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation [地址](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * AWS AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
 * AWS 控制台接管利用工具 aws_consoler [地址](https://github.com/NetSPI/aws_consoler) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/aws_consoler)
@@ -199,7 +223,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
-* 多云靶场搭建工具 TerraformGoat :fire: [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
+* AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
+* 多云靶场搭建工具 TerraformGoat  [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
 
 ## 贡献者 :confetti_ball:
 
