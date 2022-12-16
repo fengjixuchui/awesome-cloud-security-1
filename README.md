@@ -30,6 +30,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 2021 年云安全事件回顾（英文）[地址](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 * T Wiki 云安全知识文库项目 [地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网阅读`
 * 云安全入门资料 [地址](https://github.com/Esonhugh/Attack_Code) ![GitHub stars](https://img.shields.io/github/stars/Esonhugh/Attack_Code)
+* 云安全向导 [地址](https://github.com/GRQForCloud/cloud-security-guides) ![GitHub stars](https://img.shields.io/github/stars/GRQForCloud/cloud-security-guides)
 
 ### 2 博客资讯
 
@@ -63,6 +64,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 绿盟技术博客 [地址](http://blog.nsfocus.net/tag/%e4%ba%91%e5%ae%89%e5%85%a8/)
 * devops 资讯（英文）[地址](https://devops.com/)
 * 0xd4y 博客（英文）[地址](https://0xd4y.com/)
+* AWS 安全公告（英文）[地址](https://aws.amazon.com/security/security-bulletins)
 
 
 ### 3 公众号
@@ -90,7 +92,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 ### 5 视频
 
 * 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419/video)
-* KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
+* KubeCon + CloudNativeCon Europe 2022 相关视频（英文） [地址](https://www.youtube.com/c/cloudnativefdn/videos)
+* 0xd4y Hacking in the Cloud（英文）[地址](https://www.youtube.com/channel/UCSumP9z5Rzquqih-jpusTOQ)
 
 ### 6 证书
 
@@ -190,6 +193,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 * AWS IAM 权限枚举工具 enumerate-iam [地址](https://github.com/andresriancho/enumerate-iam)  ![GitHub stars](https://img.shields.io/github/stars/andresriancho/enumerate-iam)
 * S3 公开存储桶密钥扫描工具 S3cret Scanner [地址](https://github.com/Eilonh/s3crets_scanner) ![GitHub stars](https://img.shields.io/github/stars/Eilonh/s3crets_scanner)
+* Azure AD 信息收集工具 AzureGraph [地址](https://github.com/JoelGMSec/AzureGraph) ![GitHub stars](https://img.shields.io/github/stars/JoelGMSec/AzureGraph) `由「Kfzz1」师傅补充，感谢支持`
 
 #### 利用工具
 
@@ -249,7 +253,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
 * 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 * 多云靶场搭建工具 TerraformGoat  [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
-* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat)  ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat)
+* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat)  ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
 
 ## 贡献者 :confetti_ball:
 
@@ -293,9 +297,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 </table>
 
 
+### 想要一起补充？直接给本项目提 PR 或者使用右侧链接中的方法：[补充说明地址](https://wiki.teamssix.com/About/Contribute.html)
 
 
-[想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
 ## 云安全交流群 :cloud:
 
