@@ -7,8 +7,8 @@
     </a>
     <a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
     <a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
-    <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
+
 
 
 Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com)
@@ -92,6 +92,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云计算D1net
 * 云原生社区动态
 * 大可不加冰
+* 小佑科技 `由「宅独青年」师傅补充，感谢支持`
 
 ### 4 推特
 
@@ -177,6 +178,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
 * 云安全学习建议与方向（英文）[地址](https://www.nojones.net/posts/breaking-into-cloudsec)
+* 60 种云攻击的方法（英文）[地址](https://redteamrecipe.com/60-Method-For-Cloud-Attacks/) `由「程皮糖别皮」师傅补充，感谢支持`
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
@@ -200,7 +202,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 微软云 对象存储攻防 [地址](https://zone.huoxian.cn/d/940)
 * 微软云 VM 攻防 [地址](https://zone.huoxian.cn/d/1083-vm)
 * Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
-* Azure 资源收集项目 Awesome-Azure-Pentest [地址](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) ![GitHub stars](https://img.shields.io/github/stars/Kyuu-Ji/Awesome-Azure-Pentest)
+* Azure 资源收集项目 Awesome-Azure-Pentest [地址](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) ![GitHub stars](https://img.shields.io/github/stars/Kyuu-Ji/Awesome-Azure-Pentest) `由「橘子怪」师傅补充，感谢支持`
 
 **GCP**
 
@@ -272,6 +274,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 
+**CI/CD**
+
+* CI/CD 攻击场景 - KCon 2023 议题 [地址](https://github.com/knownsec/KCon/blob/master/2023/CICD%E6%94%BB%E5%87%BB%E5%9C%BA%E6%99%AF.pdf) `由「宅独青年」师傅补充，感谢支持`
 
 ## 0x02 工具 :hammer_and_wrench:
 
@@ -301,6 +306,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻击模拟工具 Leonidas [地址](https://github.com/WithSecureLabs/leonidas) ![GitHub stars](https://img.shields.io/github/stars/WithSecureLabs/leonidas)
 * 开源的轻量级云管平台 CloudExplorer Lite [地址](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) ![GitHub stars](https://img.shields.io/github/stars/CloudExplorer-Dev/CloudExplorer-Lite)
 * 红队云操作系统 RedCloudOS [地址](https://github.com/RedTeamOperations/RedCloud-OS) ![GitHub stars](https://img.shields.io/github/stars/RedTeamOperations/RedCloud-OS)
+* 云资产管理工具 cloudTools [地址](https://github.com/dark-kingA/cloudTools) ![GitHub stars](https://img.shields.io/github/stars/dark-kingA/cloudTools) `由「弱鸡」师傅补充，感谢支持`
 * 云服务枚举工具 cloud service enum [地址](https://github.com/NotSoSecure/cloud-service-enum) ![GitHub stars](https://img.shields.io/github/stars/NotSoSecure/cloud-service-enum)
 
 **AWS**
@@ -466,6 +472,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * 在线免费的 AWS 渗透测试靶场 Free AWS Security Labs [地址](https://pentesting.cloud/) `由「cr」师傅补充，感谢支持`
+* 在线多云渗透靶场 pwnedlabs [地址](https://pwnedlabs.io) `由「RBPi」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
 * Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
@@ -525,8 +532,18 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
     <tr>
         <td align="center"><img alt="橘子怪" src="/img/1694685251.png" style="width: 100px;" /><br />橘子怪</a>
         </td>
+        <td align="center"><img alt="宅独青年" src="/img/2000000016.png" style="width: 100px;" /><br />宅独青年</a>
+        </td>
+				<td align="center"><img alt="弱鸡" src="/img/2000000017.png" style="width: 100px;" /><br />弱鸡</a>
+        </td>
+				<td align="center"><img alt="RBPi" src="/img/2000000021.png" style="width: 100px;" /><br />RBPi</a>
+        </td>
+        <td align="center"><img alt="程皮糖别皮" src="/img/2000000022.png" style="width: 100px;" /><br />程皮糖别皮</a>
+        </td>
     </tr>
 </table>
+
+
 
 
 ### 想要一起补充？直接给本项目提 PR 或者使用右侧链接中的方法：[补充说明地址](https://wiki.teamssix.com/About/Contribute.html)
